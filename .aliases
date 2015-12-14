@@ -1,0 +1,11 @@
+#!/bin/bash
+# User specific aliases and functions
+# Programs
+alias a="sh ~/Dropbox/Personal/Software/audiosync/audiosync.sh"
+alias gnuplot="gnuplot -persist"
+alias tmux="tmux -2"
+#Unipd
+alias tele="cd ~/Dropbox/Unipd/Semestre1/Telecomunicazioni"
+alias ai="cd ~/Dropbox/Unipd/Semestre1/Intelligenza\ Artificiale"
+alias sw="cd ~/Dropbox/Unipd/Semestre1/Ingegneria\ del\ Software"
+alias db="cd ~/Dropbox/Unipd/Semestre1/Basi\ di\ Dati"
