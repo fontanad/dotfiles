@@ -19,7 +19,8 @@ filetype plugin indent on
 set t_Co=256
 set ls=2
 set number
-colorscheme badwolf
+set background=dark
+colorscheme solarized 
 
 "Coding
 set cc=80
@@ -32,7 +33,7 @@ set shiftwidth=4
 map <C-n> :NERDTreeToggle<CR>
 "airline
 let g:airline_powerline_fonts = 1
-let g:airline_theme="badwolf"
+"let g:airline_theme="<name of theme>"
 let g:airline#extensions#tabline#enabled = 1
 "syntastic
 set statusline+=%#warningmsg#
