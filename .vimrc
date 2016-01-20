@@ -1,4 +1,5 @@
-"vim config file
+"Vim config file
+"Author:fontanad
 "Vundle
 set nocompatible
 filetype off
