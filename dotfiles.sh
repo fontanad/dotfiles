@@ -17,3 +17,4 @@ case $1 in
 	*)
 		echo "type --help"
 	;;
+esac
